@@ -1,2 +1,2 @@
 # Login-Form
-Simple html tailwind login form.
+html & tailwind-css login form.
